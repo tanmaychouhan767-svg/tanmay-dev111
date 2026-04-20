@@ -1,9 +1,8 @@
 <div align="center">
 
-<!-- TYPING ANIMATION - powered by readme-typing-svg -->
+<!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00FFC8&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Tanmay+Chouhan+%F0%9F%91%8B;Student+%7C+Web+Dev+%7C+AI+Voice+Agent+Maker;Prompt+Engineer+%7C+Problem+Solver;I+turn+coffee+into+code+%E2%98%95%F0%9F%92%BB)](https://git.io/typing-svg)
 
-<!-- SARCASTIC QUOTE -->
 > *"I don't always test my code, but when I do, I do it in production."*
 
 <br/>
@@ -26,7 +25,6 @@ const tanmay = {
 
 ### 🛠️ Skills & Technologies
 
-<!-- Skill Badges - using shields.io -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -41,24 +39,23 @@ const tanmay = {
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=tanmay-dev111&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC8&icon_color=00FFC8&text_color=FFFFFF" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay-dev111&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC8&text_color=FFFFFF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tanmaychouhan767-svg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC8&icon_color=00FFC8&text_color=FFFFFF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaychouhan767-svg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC8&text_color=FFFFFF" height="165"/>
 
 ---
 
 ### 🔥 Streak Stats
 
-<img src="https://streak-stats.demolab.com?user=tanmay-dev111&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFC8&ring=00FFC8&fire=FF6B6B&currStreakLabel=00FFC8" />
+<img src="https://streak-stats.demolab.com?user=tanmaychouhan767-svg&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFC8&ring=00FFC8&fire=FF6B6B&currStreakLabel=00FFC8" />
 
 ---
 
 ### 🐍 Snake eating my contributions
 
-<!-- You need to set up GitHub Actions for this - see setup guide below -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanmay-dev111/tanmay-dev111/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanmay-dev111/tanmay-dev111/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tanmay-dev111/tanmay-dev111/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanmaychouhan767-svg/tanmaychouhan767-svg/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanmaychouhan767-svg/tanmaychouhan767-svg/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tanmaychouhan767-svg/tanmaychouhan767-svg/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
@@ -66,16 +63,11 @@ const tanmay = {
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmay-chouhan)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tanmay_dev111)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanmay-dev111)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanmaychouhan767-svg)
 
 ---
 
-### 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=tanmay-dev111&color=00FFC8&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br/>
+![Profile Views](https://komarev.com/ghpvc/?username=tanmaychouhan767-svg&color=00FFC8&style=for-the-badge&label=PROFILE+VIEWS)
 
 *"It's not a bug — it's an undocumented feature."* 🤷‍♂️
 
