@@ -3,7 +3,7 @@
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00FFC8&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Tanmay+Chouhan+%F0%9F%91%8B;Student+%7C+Web+Dev+%7C+AI+Voice+Agent+Maker;Prompt+Engineer+%7C+Problem+Solver;I+turn+coffee+into+code+%E2%98%95%F0%9F%92%BB)](https://git.io/typing-svg)
 
-> *"I don't always test my code, but when I do, I do it in production."*
+> *"I Can Fix The World But They Won't Give Me The Source Code."*
 
 <br/>
 
@@ -11,15 +11,13 @@
 
 ### 🧑‍💻 About Me
 
-```javascript
-const tanmay = {
-  name: "Tanmay Chouhan",
-  role: ["Student", "Web Developer", "AI Voice Agent Maker", "Prompt Engineer"],
-  currentlyLearning: ["Advanced AI Systems", "Full Stack Dev"],
-  funFact: "My code works. I have no idea why. I'm afraid to touch it.",
-  askMeAbout: ["Web Dev", "AI Agents", "Prompt Engineering", "DSA"],
-};
-```
+| | |
+|---|---|
+| 👤 **Name** | Tanmay Chouhan |
+| 🎓 **Role** | Student · Web Developer · AI Voice Agent Maker · Prompt Engineer |
+| 🌱 **Learning** | Advanced AI Systems · Full Stack Dev |
+| 💬 **Ask me about** | Web Dev · AI Agents · Prompt Engineering · DSA |
+| ⚡ **Fun Fact** | My code works. I have no idea why. I'm afraid to touch it. |
 
 ---
 
@@ -62,7 +60,7 @@ const tanmay = {
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmay-chouhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://[linkedin.com/in/tanmay-chouhan](https://www.linkedin.com/in/tanmay-chouhan-08b8ab385/))
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanmaychouhan767-svg)
 
 ---
